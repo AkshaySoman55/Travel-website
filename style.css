@@ -131,8 +131,9 @@
 
 .cards{
 display:inline-block;
-width: 30%;
+width: 25%;
 margin-left: 50px;
+margin-right: 50px;
 
 
 }
@@ -238,9 +239,9 @@ margin-left: 50px;
 	padding: 10px 20px;
 	border-radius: 15px;
 	width: 50%;
-	margin-left: 430px;
+	margin-left: 370px;
 	box-shadow: 7px 7px 17px #455065;
-	  
+
 	}
 
 input{
